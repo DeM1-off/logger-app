@@ -25,7 +25,7 @@
 - Just clone the project to anywhere in your computer.
 - composer install
 - ./vendor/bin/sail up  <br>
-- ./vendor/bin/sai artisan migrate
+- ./vendor/bin/sail artisan migrate
 - ./vendor/bin/sail artisan db:seed
 
 Now you are done.
