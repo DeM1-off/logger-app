@@ -24,6 +24,7 @@
 
 - Just clone the project to anywhere in your computer.
 - composer install
+- composer require laravel/sail
 - ./vendor/bin/sail up  <br>
 - ./vendor/bin/sai artisan migrate
 - ./vendor/bin/sail artisan db:seed
